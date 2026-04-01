@@ -1,1 +1,1 @@
-Repozytorium zawiera zbiór krótkich implementacji algorytmów i struktur danych, które omawiamy podczas zajęć na uczelni.
+The repository contains projects and assignments created while learning Python.
